@@ -1,7 +1,5 @@
 # 🏥 Healthcare Patient Analytics — SQL Project
 
-![SQL](https://img.shields.io/badge/SQL-MySQL%208.0-blue) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Portfolio](https://img.shields.io/badge/Type-Portfolio%20Project-orange)
-
 ## 📌 Project Overview
 
 This project analyzes a hospital's patient database to uncover actionable business insights around **patient behavior**, **doctor performance**, and **billing trends**. It was built as part of a Business Analytics portfolio to demonstrate real-world SQL skills using MySQL.
@@ -103,14 +101,6 @@ healthcare-sql-analytics/
 - Include a `staff` table to track nurse-to-patient ratios
 - Build a dashboard on top of this data using **Tableau** or **Power BI**
 - Add stored procedures for automated monthly reporting
-
----
-
-## 👤 About
-
-This project was built as part of a **Business Analytics portfolio** to demonstrate practical SQL skills in a real-world healthcare context.
-
-Feel free to fork this repository, explore the queries, and adapt the database for your own learning!
 
 ---
 
