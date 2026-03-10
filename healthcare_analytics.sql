@@ -353,5 +353,5 @@ ORDER BY month_number ASC;
 
 -- ============================================================
 -- END OF PROJECT
--- Healthcare Patient Analytics | Business Analytics Portfolio
+-- Healthcare Patient Analytics
 -- ============================================================
